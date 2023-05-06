@@ -2,4 +2,4 @@
 
 ## Выполненые задания
 
-* [Задание №1](https://github.com/s-a-ovodkov/kafka-2023-05)
+* [Задание #1](/task-01/README.md)
